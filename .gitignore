@@ -35,3 +35,6 @@ unity/[Bb]uilds/
 .DS_Store
 .idea/
 .vscode/
+
+# demo videos are intentionally tracked
+!demo/*.mp4
