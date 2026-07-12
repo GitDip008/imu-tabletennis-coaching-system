@@ -1,0 +1,524 @@
+{
+    "bones": [
+        {
+            "boneName": "mixamorig:Hips",
+            "localPosition": [
+                0.000006834554369561374,
+                1.026741862297058,
+                0.005688620265573263
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftUpLeg",
+            "localPosition": [
+                -0.06620178371667862,
+                -0.08816845715045929,
+                -0.0044718277640640739
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightUpLeg",
+            "localPosition": [
+                0.06620178371667862,
+                -0.08816848695278168,
+                -0.0044718277640640739
+            ]
+        },
+        {
+            "boneName": "mixamorig:Spine",
+            "localPosition": [
+                0.0,
+                0.056457214057445529,
+                -0.00031929314718581736
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftLeg",
+            "localPosition": [
+                0.0037225636187940838,
+                0.3618519902229309,
+                0.0008833975880406797
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightLeg",
+            "localPosition": [
+                -0.0037211438175290825,
+                0.3618389666080475,
+                0.004961574450135231
+            ]
+        },
+        {
+            "boneName": "mixamorig:Spine1",
+            "localPosition": [
+                0.0,
+                0.0658678263425827,
+                -5.62117453278832e-12
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftFoot",
+            "localPosition": [
+                -5.085549203975859e-10,
+                0.46263059973716738,
+                -7.346706021316152e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightFoot",
+            "localPosition": [
+                6.81570577754087e-10,
+                0.46253347396850588,
+                -3.515941704446135e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:Spine2",
+            "localPosition": [
+                0.0,
+                0.07527753710746765,
+                -3.2164848041971172e-12
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftToeBase",
+            "localPosition": [
+                -2.7044297357115e-10,
+                0.16368599236011506,
+                -6.6870073922586929e-9
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightToeBase",
+            "localPosition": [
+                -3.030144928375944e-12,
+                0.1686341017484665,
+                -2.9002586998672088e-9
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftShoulder",
+            "localPosition": [
+                -0.03414665162563324,
+                0.07343370467424393,
+                -0.00017398552154190838
+            ]
+        },
+        {
+            "boneName": "mixamorig:Neck",
+            "localPosition": [
+                0.0,
+                0.08468717336654663,
+                -1.0722686072384136e-9
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightShoulder",
+            "localPosition": [
+                0.03414665162563324,
+                0.07343246042728424,
+                0.00004668820110964589
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftToe_End",
+            "localPosition": [
+                -1.816383501940244e-11,
+                0.06665021926164627,
+                4.890748223074226e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightToe_End",
+            "localPosition": [
+                -3.1880560691366358e-11,
+                0.06677562743425369,
+                5.687537593668246e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftArm",
+            "localPosition": [
+                8.603783917954244e-14,
+                0.07189680635929108,
+                1.0090115409866485e-9
+            ]
+        },
+        {
+            "boneName": "mixamorig:Head",
+            "localPosition": [
+                0.0,
+                0.05998901277780533,
+                -0.011589573696255684
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightArm",
+            "localPosition": [
+                1.2103092833504192e-11,
+                0.07189680635929108,
+                1.008938932400838e-9
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftForeArm",
+            "localPosition": [
+                3.231036965756218e-11,
+                0.24203573167324067,
+                1.7166471022456165e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:HeadTop_End",
+            "localPosition": [
+                0.0,
+                0.217488095164299,
+                -0.04201760143041611
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightForeArm",
+            "localPosition": [
+                -2.5905003836479424e-11,
+                0.24202720820903779,
+                -5.6761848693520636e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHand",
+            "localPosition": [
+                -6.874749380880729e-11,
+                0.21595099568367005,
+                -4.274625087490741e-13
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHand",
+            "localPosition": [
+                2.9722024841305485e-10,
+                0.215956449508667,
+                -3.1816682535129592e-12
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandIndex1",
+            "localPosition": [
+                0.025610245764255525,
+                0.07100103795528412,
+                0.0004859041073359549
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandMiddle1",
+            "localPosition": [
+                0.008249274455010891,
+                0.07382678985595703,
+                -0.0010472892317920924
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandPinky1",
+            "localPosition": [
+                -0.024981899186968805,
+                0.07361747324466706,
+                0.00028722890419885516
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandRing1",
+            "localPosition": [
+                -0.00887762475758791,
+                0.07537541538476944,
+                0.000963507336564362
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandThumb1",
+            "localPosition": [
+                0.021452616900205613,
+                0.020982353016734124,
+                0.011066799983382225
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandIndex1",
+            "localPosition": [
+                -0.025669824331998826,
+                0.07104994356632233,
+                0.00039442002889700234
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandMiddle1",
+            "localPosition": [
+                -0.008360951207578183,
+                0.07262776046991348,
+                -0.0011012207251042128
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandPinky1",
+            "localPosition": [
+                0.0241774283349514,
+                0.07441803067922592,
+                0.0009101358009502292
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandRing1",
+            "localPosition": [
+                0.009853345341980458,
+                0.07492674887180329,
+                -0.00018888039630837739
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandThumb1",
+            "localPosition": [
+                -0.02165389247238636,
+                0.021352428942918779,
+                0.011744985356926918
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandIndex2",
+            "localPosition": [
+                0.000005650469574902672,
+                0.0300009623169899,
+                4.298186459528175e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandMiddle2",
+            "localPosition": [
+                0.00001894180604722351,
+                0.033795662224292758,
+                5.779398140615122e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandPinky2",
+            "localPosition": [
+                -0.000005244647582003381,
+                0.02480185031890869,
+                -5.065643737811598e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandRing2",
+            "localPosition": [
+                0.00004293377060093917,
+                0.028452306985855104,
+                -3.1688512924787917e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandThumb2",
+            "localPosition": [
+                0.004422195255756378,
+                0.02520180679857731,
+                -7.30437913387845e-14
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandIndex2",
+            "localPosition": [
+                0.000010054916856461205,
+                0.0294933021068573,
+                -1.6901395213930749e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandMiddle2",
+            "localPosition": [
+                -0.00009278475044993684,
+                0.03311087563633919,
+                2.0578738366139328e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandPinky2",
+            "localPosition": [
+                0.000007026145340205403,
+                0.024493195116519929,
+                1.0709882286574768e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandRing2",
+            "localPosition": [
+                -0.0000149563302329625,
+                0.028155075386166574,
+                9.423928304386209e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandThumb2",
+            "localPosition": [
+                -0.004380630329251289,
+                0.025709493085741998,
+                -8.390878547537284e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandIndex3",
+            "localPosition": [
+                -0.000004740916665468831,
+                0.027485795319080354,
+                -1.9026202488503509e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandMiddle3",
+            "localPosition": [
+                -0.00005514157237485051,
+                0.03190789371728897,
+                1.0537774819407986e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandPinky3",
+            "localPosition": [
+                -0.000013815116290061269,
+                0.019510984420776368,
+                -4.026546110424967e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandRing3",
+            "localPosition": [
+                -0.000007450107659678906,
+                0.026810085400938989,
+                6.411937387290623e-12
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandThumb3",
+            "localPosition": [
+                -0.0005009757005609572,
+                0.031055418774485589,
+                -4.5398110271044347e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandIndex3",
+            "localPosition": [
+                0.00005537509423447773,
+                0.028015708550810815,
+                -9.608072670808099e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandMiddle3",
+            "localPosition": [
+                4.939979021401086e-7,
+                0.03189107030630112,
+                1.0237868885987211e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandPinky3",
+            "localPosition": [
+                0.00006402268627425656,
+                0.01966046914458275,
+                2.6402914576895143e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandRing3",
+            "localPosition": [
+                6.29550982012006e-7,
+                0.027356840670108796,
+                -1.1235101390894009e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandThumb3",
+            "localPosition": [
+                0.000520687666721642,
+                0.030593134462833406,
+                5.052760432278092e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandIndex4",
+            "localPosition": [
+                -9.100347710955248e-7,
+                0.02334347739815712,
+                -4.346816309674928e-12
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandMiddle4",
+            "localPosition": [
+                0.00003619978451752104,
+                0.027520403265953065,
+                2.1196341556950494e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandPinky4",
+            "localPosition": [
+                0.000019060173144680448,
+                0.016595453023910524,
+                4.0817977470242187e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandRing4",
+            "localPosition": [
+                -0.00003548392123775557,
+                0.02280712127685547,
+                8.028564618678402e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:LeftHandThumb4",
+            "localPosition": [
+                -0.003921215888112783,
+                0.026770787313580514,
+                6.240267746981942e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandIndex4",
+            "localPosition": [
+                -0.00006543034396599978,
+                0.023635458201169969,
+                2.4663379671885368e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandMiddle4",
+            "localPosition": [
+                0.0000922907711355947,
+                0.026915110647678376,
+                2.44074274680095e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandPinky4",
+            "localPosition": [
+                -0.00007104930409695953,
+                0.01612103171646595,
+                -1.5345293091773016e-10
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandRing4",
+            "localPosition": [
+                0.000014326656128105242,
+                0.023531796410679818,
+                3.2169395619563448e-11
+            ]
+        },
+        {
+            "boneName": "mixamorig:RightHandThumb4",
+            "localPosition": [
+                0.0038599425461143257,
+                0.026252195239067079,
+                -4.349078597254419e-10
+            ]
+        }
+    ]
+}

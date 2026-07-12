@@ -1,0 +1,25 @@
+{
+  "subject_id": 10,
+  "raw_response": " ASSESSMENT: Player 10 exhibits a dominant backhand drive with low confidence in forehand smashes, requiring focus on technique and rhythm consistency.\n\nRECOMMENDATIONS:\n1. [PRIORITY: HIGH] Implement a focused drill to improve forehand smash technique, focusing on proper wrist snap, elbow lead, and follow-through for increased consistency (e.g., repetitive forehand smash exercises with feedback on form).\n2. [PRIORITY: MED] Introduce rhythm drills to stabilize the irregular tempo in Player 10's stroke rhythm (e.g., count drills or timing exercises).\n3. [PRIORITY: LOW] Encourage a more balanced stroke distribution by incorporating forehand topspin drills to reduce over-reliance on backhand drives (e.g., alternating forehand and backhand topspin exercises).\n\nNEXT SESSION FOCUS: Improving forehand smash technique and stabilizing rhythm for better consistency in stroke execution.",
+  "assessment": "Player 10 exhibits a dominant backhand drive with low confidence in forehand smashes, requiring focus on technique and rhythm consistency.",
+  "recommendations": [
+    {
+      "rank": 1,
+      "priority": "HIGH",
+      "text": "Implement a focused drill to improve forehand smash technique, focusing on proper wrist snap, elbow lead, and follow-through for increased consistency (e.g., repetitive forehand smash exercises with feedback on form)."
+    },
+    {
+      "rank": 2,
+      "priority": "MED",
+      "text": "Introduce rhythm drills to stabilize the irregular tempo in Player 10's stroke rhythm (e.g., count drills or timing exercises)."
+    },
+    {
+      "rank": 3,
+      "priority": "LOW",
+      "text": "Encourage a more balanced stroke distribution by incorporating forehand topspin drills to reduce over-reliance on backhand drives (e.g., alternating forehand and backhand topspin exercises)."
+    }
+  ],
+  "next_focus": "Improving forehand smash technique and stabilizing rhythm for better consistency in stroke execution.",
+  "prompt_tokens": 622,
+  "output_tokens": 226
+}

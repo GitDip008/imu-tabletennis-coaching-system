@@ -1,0 +1,38 @@
+data:
+  raw_path: "data/raw/TTSWING.csv"
+  processed_dir: "data/processed"
+
+model:
+  input_dim: 34
+  hidden_dims: [256, 128, 64]
+  num_classes: 4
+  dropout: 0.3
+
+training:
+  epochs: 40
+  batch_size: 256
+  lr: 0.001
+  weight_decay: 0.0001
+  scheduler: "cosine"
+  early_stopping_patience: 7
+
+evaluation:
+  strategy: "LOSO"
+  checkpoint_dir: "checkpoints"
+
+llm:
+  base_url: "http://localhost:1234/v1"
+  model: "mistralai/mistral-7b-instruct-v0.3"
+  max_tokens: 512
+  temperature: 0.3
+
+imu:
+  csv_path: "data/raw/imu_data_log_20250624_204958.csv"
+  initial_pose_path: "data/raw/InitialPoseExport.txt"
+  bone_hierarchy_path: "data/raw/BoneHierarchy.txt"
+  bone_offsets_path: "data/raw/BoneOffsets.json"
+  racket_imu_id: 10
+  calib_start: 640
+  calib_frames: 100
+  unity_host: "127.0.0.1"
+  unity_port: 5005

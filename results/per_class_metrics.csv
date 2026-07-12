@@ -1,0 +1,5 @@
+Class,Precision,Recall,F1-Score,Support
+No Stroke,0.9246,0.9696,0.9465,23500
+Stroke Type 1,0.9033,0.8637,0.8831,39000
+Stroke Type 2,0.6435,0.7061,0.6733,22950
+Stroke Type 3,0.4855,0.4173,0.4488,11900
