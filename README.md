@@ -10,8 +10,11 @@ This repository is my **MSc thesis** submission work.
 
 ## Demo
 
-▶️ **[Watch the demo video](demo/classification.mp4)** (`demo/classification.mp4`) — live
-IMU stream driving the Unity skeleton with real-time stroke classification.
+Live IMU stream driving the Unity skeleton with real-time stroke classification:
+
+<video src="https://github.com/GitDip008/imu-tabletennis-coaching-system/raw/main/demo/classification.mp4" controls muted autoplay loop playsinline width="100%"></video>
+
+> If the player above does not load, ▶️ **[watch the demo video directly](demo/classification.mp4)**.
 
 ## What it does
 
